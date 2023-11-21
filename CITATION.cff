@@ -1,18 +1,16 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: Fideles Vieira do Nascimento
+    given-names: Italo
+  - family-names: Roman Palhano Dutra
+    given-names: Jully Anne
+  - family-names: de Souza Nassif Lemos
+    given-names: Lucas
+  - family-names: Silva de Mello Mattos
+    given-names: Mariana 
+  - family-names: Pereira Coelho
+    given-names: Vinicius 
     
   - name-suffix: Professor
     affiliation: PUC Minas
