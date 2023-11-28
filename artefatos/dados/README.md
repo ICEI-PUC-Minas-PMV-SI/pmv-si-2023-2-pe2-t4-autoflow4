@@ -2,13 +2,21 @@
 
 Este diretório mantém os artefatos relacionados à modelagem de dados do projeto. 
 
-Os principais documentos a serem produzidos são:
-
 
 * `diagrama entidade-relacionamento (DER)`
-	* Apresentar o DER em imagem vetorial para evitar perda de qualidade com renderização em resolução específica.
+<p align="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-autoflow4/blob/899e684898435b1841f914b48156db7faa01e4b3/artefatos/dados/imagens_modelo/Diagrama-Entidade.svg" alt="AutoFlowlogo">
+</p>
+	
 
 * `modelo relacional`
-	* Apresentar o modelo relacional em imagem vetorial para evitar perda de qualidade com renderização em resolução específica.
+<p align="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-autoflow4/blob/899e684898435b1841f914b48156db7faa01e4b3/artefatos/dados/imagens_modelo/Diagrama-Modelo-Relacional.svg" alt="AutoFlowlogo">
+</p>
 
-Demais artefatos que julgar pertinentes.
+Inserir valores padrões mais tarde como:
+- Status do veiculo
+- Status do alguel
+- Categoria de veiculo
+- Status IPVA
+- Status Seguro
