@@ -7,9 +7,9 @@ Nesse cenário, uma solução que capacite as empresas de locação a elevar sua
 
 Os usuários administrativos da locação de veículos tem como dor processos burocráticos, com falta de transparência da disponibilidade de veículos e excesso de processos manuais de atualização dessas informações, o que gera lentidão na execução e problemas de comunicação com o cliente. Esses problemas têm impactos significativos, incluindo:
 
-Baixa Satisfação do Cliente: Clientes enfrentam longos tempos de espera durante a retirada e devolução de veículos, além de confusão na documentação necessária.
-Desperdício de Recursos: As empresas de locação gastam recursos significativos na gestão manual da frota e na resolução de erros nos processos.
-Perda de Receita: A falta de visibilidade sobre a disponibilidade da frota resulta na perda de oportunidades de locação.
+- **Baixa Satisfação do Cliente:** Clientes enfrentam longos tempos de espera durante a retirada e devolução de veículos, além de confusão na documentação necessária.
+- **Desperdício de Recursos:** As empresas de locação gastam recursos significativos na gestão manual da frota e na resolução de erros nos processos.
+- **Perda de Receita:** A falta de visibilidade sobre a disponibilidade da frota resulta na perda de oportunidades de locação.
 
 
 # Objetivos
@@ -20,9 +20,9 @@ O objetivo deste trabalho é desenvolver um sistema de informação que apoie os
 
 **Objetivos Específicos:**
 Dentre os objetivos que serão abordados pelo sistema estão os seguintes:
-Cadastrar veículos disponíveis para locação
-Cadastrar clientes que desejam alugar veículos
-Gerenciar o processo de locação de veículos, de forma a informar a situação do automóvel
+- Cadastrar veículos disponíveis para locação
+- Cadastrar clientes que desejam alugar veículos
+- Gerenciar o processo de locação de veículos, de forma a informar a situação do automóvel
 
 
 
