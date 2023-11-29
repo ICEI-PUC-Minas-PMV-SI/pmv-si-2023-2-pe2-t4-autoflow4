@@ -1,6 +1,6 @@
 # Lista dos processos de negócio do sistema AS IS
 
-**Processos AS IS na Locação de Veículos**
+**Análise da situação atual (AS-IS)**
 
 Nesse cenário fictício, uma empresa de locação de veículos ainda está gerenciando muitas de suas operações de forma manual, das quais foram elencados os seguintes processos para possível automação:
 
