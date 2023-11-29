@@ -38,7 +38,7 @@ O projeto AutoFlow, voltado a aplicações de processos de negócios, busca otim
 
 # Código
 
-[Código dodo projeto](/codigo/)
+[Código do projeto](/codigo/)
 
 # Apresentação
 
