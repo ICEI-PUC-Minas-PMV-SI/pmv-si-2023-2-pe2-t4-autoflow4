@@ -1,4 +1,4 @@
-# Lista dos processos de negócio do sistema
+# Lista dos processos de negócio do sistema - AS IS
 
 **Processos Manuais na Locação de Veículos**
 
