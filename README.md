@@ -36,6 +36,10 @@ O projeto AutoFlow, voltado a aplicações de processos de negócios, busca otim
 | ETAPA 5         | [Indicadores de desempenho para o processo de negócio](artefatos/metricas/README.md) |
 | ETAPA 6         | [Apresentação](presentation/README.md) |
 
+# Código
+
+[Código dodo projeto](/codigo/)
+
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
