@@ -37,3 +37,7 @@ A automação dos processos na locação de veículos traria uma série de vanta
 - **Atendentes/Funcionários:** Eles seriam os usuários finais das ferramentas desenvolvidas, utilizando-as para agilizar as tarefas de alocação de veículos, monitoramento de disponibilidade, registro de documentos e comunicação interna.
 
 - **Clientes que desejam alugar veículos:** Com a otimização das reservas, a disponibilidade mais precisa de veículos e a comunicação interna aprimorada, os clientes podem experimentar um atendimento mais eficiente, entregas pontuais e uma experiência geral de aluguel mais satisfatória.
+
+# Modelagem do processo de negócio
+Na locação de veículos, a automação de processos de negócios pode trazer uma série de benefícios ao eliminar tarefas manuais e ineficientes, reduzindo erros e retrabalho. Apresentamos situações indesejadas de processos manuais na locação de veículos e vamos identificar os problemas associados a elas.
+
