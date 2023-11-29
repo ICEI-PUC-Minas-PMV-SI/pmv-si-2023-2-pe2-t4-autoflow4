@@ -1,18 +1,10 @@
 # Lista dos processos de negócio do sistema - TO BE
 
-**Processos TO BE na Locação de Veículos**
+![Navy and White Business Model Canvas Brainstorm](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-autoflow4/assets/125522668/1dbad3d3-0ec0-4244-be73-cc3d68c447e7)
 
-Solução automatizada dos processos:
+**Modelagem dos processos aprimorados (TO-BE)**
 
-- Cadastrar Veículos
-
-<p align="center">
-  <img src="imagens/Processo To Be - Gerenciar Veiculos.jpg" alt="AutoFlowlogo">
-</p>
-
-      Processo utilizado para gerenciar veículos da organização de forma automatizada, no qual os funcionários podem consultar dados dos automóveis em um sistema, alterar o status dos mesmos e inserir novos automóveis, reduzindo o tempo gasto para a realização dessas tarefas, e a necessidade de lidar com papéis para manter essas informações.
-  
-- Cadastrar Clientes
+- Gerenciar Clientes
 
 <p align="center">
   <img src="imagens\Processo To Be - Gerenciar Clientes.jpg" alt="AutoFlowlogo">
@@ -20,6 +12,16 @@ Solução automatizada dos processos:
 
       Processo utilizado para gerenciar clientes da organização de forma automatizada, no qual os funcionários podem consultar um sistema e gerar pedidos de reserva de veículos com base nos dados contidos neles, sem a necessidade de lidar com papéis e reduzindo o tempo necessário para conclusão do processo.
   
+
+- Gerenciar Veículos
+
+<p align="center">
+  <img src="imagens/Processo To Be - Gerenciar Veiculos.jpg" alt="AutoFlowlogo">
+</p>
+
+      Processo utilizado para gerenciar veículos da organização de forma automatizada, no qual os funcionários podem consultar dados dos automóveis em um sistema, alterar o status dos mesmos e inserir novos automóveis, reduzindo o tempo gasto para a realização dessas tarefas, e a necessidade de lidar com papéis para manter essas informações.
+  
+
 - Gerenciamento de Locação Reserva
 
 <p align="center">
