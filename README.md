@@ -33,7 +33,7 @@ O projeto AutoFlow, voltado a aplicações de processos de negócios, busca otim
 | ETAPA 2         |[Modelagem de processos de negócios - AS IS e TO BE](artefatos/processos/README.md)|
 | ETAPA 3         |[Modelagem de dados](artefatos/dados/README.md) |
 | ETAPA 4        |[Automatização do processo](codigo/README.md)  |
-| ETAPA 5         | [Indicadores de desempenho para o processo de negócio]() |
+| ETAPA 5         | [Indicadores de desempenho para o processo de negócio](metricas/README.md) |
 | ETAPA 6         | [Apresentação](presentation/README.md) |
 
 # Apresentação
