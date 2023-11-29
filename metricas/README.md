@@ -1,9 +1,10 @@
-# Documentação do projeto
-
-Liste os documentos disponibilizados nesta pasta com uma breve descrição do conteúdo de cada um deles.
-
-* relatorio_final.pdf - Relatório do projeto.
-* apresentacao.mkv - Vídeo de apresentação do projeto.
-* slides.pptx - Slides da apresentação final do projeto.
+# Indicadores de desempenho
 
 
+| Indicador                       | Objetivo                                       | Descrição                                                                                         | Fórmula de cálculo                        | Fontes de dados  | Perspectiva     |
+|---------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------|------------------|-----------------|
+| Taxa de utilização de Frota      | Avaliar quantitativamente o número de veículos utilizados | Percentual de veículos alugados | (número de veículos alugados / número de veículos da frota) * 100 | Tabela de veículos | Crescimento     |
+| Receita em taxas extras          | Avaliar a receita obtida secundariamente ao aluguel | Mede a receita total obtida somente pelas taxas extras, sendo elas devido a quebras de contrato, estado do veículo, etc. | (receita total em taxas / receita total) * 100 | Tabela de aluguel | Crescimento     |
+| Receita por Veículo Alugado      | Avaliar o lucro obtido no total por veículo     | Receita total por veículo alugado | receita total / número de veículos alugados                     | Tabela de aluguel | Aprendizado     |
+| Taxa de Manutenção               | Medir o percentual de veículos que estiveram em manutenção | % de veículos que em algum momento estiveram em manutenção em relação à toda a frota       | (veículos que estiveram em manutenção / total de veículos da frota) * 100 | Tabela de veículos | Redução         |
+| Taxa de Retorno de Cliente       | Avaliar clientes que utilizam o serviço        | % de clientes que retornam a utilizar o serviço                                                    | (número de Clientes Ativos / número Total de Clientes) * 100 | Tabela de aluguel e de clientes | Crescimento     |
