@@ -27,25 +27,10 @@ As operações requisitadas para locação de veículos são majoritariamente a 
 
 # Valores das entidades
 
-- Status do veiculo
-	- Disponivel
- 	- Reservado
-  	- Manutenção 
-- Status do alguel
-	- Reservado
-	- Aguardando Retirada
- 	- Documentação pendente
-  	- Em atraso
-  	- Aguardando devolução
-  	- Finalizado    
-- Categoria de veiculo
-	- Hatch
- 	- Sedan
-  	- Utilitário
-  	- SUV   
-- Status IPVA
-	- Vigente
- 	- Vencido 
-- Status Seguro
-	- Vigente
- 	- Vencido	 	
+| Entidade          | Valores                                       |
+|-------------------|-----------------------------------------------|
+| Status do veículo | Disponível, Reservado, Manutenção              |
+| Status do aluguel  | Reservado, Aguardando Retirada, Documentação pendente, Em atraso, Aguardando devolução, Finalizado |
+| Categoria do veículo | Hatch, Sedan, Utilitário, SUV                  |
+| Status IPVA       | Vigente, Vencido                               |
+| Status Seguro     | Vigente                                       |
