@@ -21,7 +21,7 @@ O projeto AutoFlow, voltado a aplicações de processos de negócios, busca otim
 * Mariana Silva de Mello Mattos
 * Vinícius Pereira Coelho
 
-## Professor
+## Professora
 
 * Juliana Amaral Baroni de Carvalho
 
