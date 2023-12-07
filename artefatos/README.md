@@ -5,4 +5,5 @@ Liste os artefatos produzidos, com suas localizações e descrição do conteúd
 
 * `/processos` - Pasta com os modelos de processo de negócio.
 * `/dados ` - Pasta com os modelos de dados.
+* `/metricas` - Pasta com as metricas do negócio.
 
