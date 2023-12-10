@@ -12,11 +12,10 @@ authors:
   - family-names: Pereira Coelho
     given-names: Vinicius 
     
-    given-names: Juliana Amaral 
+    given-names: Juliana Amaral Baroni de Carvalho
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: Da Mota
-    given-names: Rosilane Ribeiro
+  
   
 cff-version: "1.1.0"
 keywords: 
